@@ -4,7 +4,26 @@ title: Venkatesh Bollineni
 photo: assets/pic.png
 ---
 
+<style>
+.photo-left {
+  position: absolute;
+  top: 40px;
+  left: 20px;
+  width: 120px;
+  border-radius: 50%;
+  border: 3px solid white;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+@media (max-width: 768px) {
+  .photo-left {
+    position: relative;
+    display: block;
+    margin: 20px auto;
+  }
+}
+</style>
 
+<img src="assets/pic.png" alt="My Photo" class="photo-left" />
 
 Welcome to my GitHub profile page
 
