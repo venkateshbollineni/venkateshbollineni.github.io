@@ -83,6 +83,8 @@ Results & Analysis
 
 <img src="assets/Accuracies plot.png" width="500"/>
 
+
+
 <p style="font-size: 18px; font-weight: bold;">
   Predicting Customer Interest in Enhanced Travel Insurance with COVID Cover
 </p>
@@ -91,6 +93,7 @@ Results & Analysis
 🛫📊 Customer Interest Prediction in Travel Insurance: Developed a predictive model using Gradient Boosting to identify potential buyers for a new travel insurance package, including COVID coverage. 
 
 Key Steps & Techniques:
+
 ✔️ Data Cleaning & Exploration: Addressed missing values, removed irrelevant features, and performed ANOVA tests to identify key predictors.
 
 ⚖️📉 Class Imbalance Handling: Adjusted thresholding techniques to address dataset imbalance (63% opted out, 37% opted in), ensuring better model performance.
@@ -108,11 +111,14 @@ Model Training & Evaluation:
 🔮📊 Predictive Insights: The model was applied to 100 unseen data points, correctly identifying 81 as "No" and 19 as "Yes" for purchasing travel insurance. 
 
 Business Impact:
+
 🎯📢 Actionable Insights: Helped optimize marketing strategies by identifying key factors influencing customer interest. 
 
 ⚠️🔍 Deployment Considerations: Emphasized balancing false positives (unnecessary purchases) and false negatives (missed customers) before model deployment. 
 
 🚀📈 This project showcased the power of predictive modelling in driving business decisions, refining customer targeting, and enhancing travel insurance adoption strategies. 
+
+
 
 <p style="font-size: 18px; font-weight: bold;">
   Tracking the Spread of Invasive Spotted Lanternfly using Machine Learning
@@ -125,8 +131,11 @@ To tackle the spread of the invasive spotted lanternfly (Lycorma delicatula), de
 🔹 Key Steps & Techniques:
 
 ✔️ Data Preprocessing & Feature Engineering: Addressed missing values, null values, and categorical encoding.
+
 ✔️ Dimensionality Reduction & Clustering: Applied PCA and K-Means to analyze patterns in lyde_density distribution.
+
 ✔️ Feature Selection: Applied ANOVA F-statistic to identify top contributing features.
+
 ✔️ Class Imbalance Handling: Implemented SMOTE & Equal Proportions Oversampling to balance the dataset.
 
 🤖 Model Training & Evaluation:
@@ -143,7 +152,9 @@ To tackle the spread of the invasive spotted lanternfly (Lycorma delicatula), de
 📊 Model Validation & Interpretation:
 
 📉 K-Fold Cross-Validation: Managed bias-variance tradeoff effectively.
+
 📈 Feature Importance Analysis: Identified key drivers of infestation spread using SHAP values.
+
 📊 Confusion Matrices & Classification Reports: Analyzed error distribution across classes.
 
 This project showcases the power of machine learning in environmental conservation and pest control 🦟. By leveraging geospatial data and predictive modelling, it supports informed decision-making for authorities tackling invasive species.
