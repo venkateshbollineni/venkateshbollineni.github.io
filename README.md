@@ -1,6 +1,4 @@
-
-
-# Generative AI Engineer/ML Engineer
+# Venkatesh Bollineni
 
 # Education
 Masters in Computer science
