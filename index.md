@@ -3,6 +3,8 @@ layout: default
 title: Venkatesh Bollineni
 ---
 
+![Alt text for image](assets/myphoto.jpg)
+
 Welcome to my GitHub profile page
 
 **Education** - Masters in computer science
