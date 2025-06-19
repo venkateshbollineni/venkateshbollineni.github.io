@@ -3,9 +3,9 @@ layout: default
 title: Venkatesh Bollineni
 ---
 
-<img src="assets/pic.PNG" width="120" style="border-radius:50%; border:3px solid white; box-shadow: 0 0 8px rgba(0,0,0,0.2); position:absolute; top:40px; left:20px;" />
+<img src="assets/pic.PNG" width="400" style="border-radius:50%; box-shadow: 0 0 8px rgba(0,0,0,0.2); position:absolute; top:40px; left:5px;" />
 
-Welcome to my GitHub profile page
+**Welcome to my GitHub profile page**
 
 **Education** - Masters in computer science
 
