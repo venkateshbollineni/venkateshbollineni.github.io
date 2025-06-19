@@ -8,13 +8,10 @@ title: Venkatesh Bollineni
 <p style="font-size: 30px;font-weight: bold;">Welcome to my GitHub profile page</p> 
 
 **Education** - Masters in computer science
-<p style="font-size: 25px;font-weight: bold;">Education</p> - Masters in computer science
+<p style="font-size: 22px;font-weight: bold;">Education</p> - Masters in computer science
 
 **Work experience**
-
-ML Researcher - Southern Illinois University Edwardsville - Jan 2025 to present
-
-ML Research Assistant - Southern Illinois University Edwardsville - Jun 2024 to Dec 2024
+<p style="font-size: 22px;font-weight: bold;">Work experience</p> - ML Researcher, Southern Illinois University Edwardsville, Jan 2025 to present - ML Research Assistant, Southern Illinois University Edwardsville - Jun 2024 to Dec 2024
 
 Machine Learning Engineer - Saipem - April 2021 to Jun 2023
 
