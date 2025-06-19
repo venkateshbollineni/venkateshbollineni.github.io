@@ -7,7 +7,7 @@ title: Venkatesh Bollineni
 
 <p style="font-size: 30px;font-weight: bold;">Welcome to my profile page</p> 
 
-<p style="font-size: 21px;font-weight: bold;">Education</p> - Masters in computer science
+<p style="font-size: 21px;font-weight: bold;">Education</p> - Master's in Computer Science
 
 <p style="font-size: 21px;font-weight: bold;">Work experience</p>
 
