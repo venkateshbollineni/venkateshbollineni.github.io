@@ -36,6 +36,12 @@ title: Venkatesh Bollineni
 
 <a href="https://aclanthology.org/2025.nlp4dh-1.44/" target="_blank">Read the full research paper here</a>
 
+<p style="font-size: 21px;font-weight: bold;">Projects</p>
+
+<p style="font-size: 18px; font-weight: bold;">
+  Genome Sequence Detection Utilizing the PyTorch Framework
+</p>
+
 <p style="font-size: 21px;font-weight: bold;">Certifications</p>
 
 <a href="https://www.credly.com/badges/b8a529c9-a434-4609-8c08-68825e922bb8/public_url" target="_blank">AWS Certified Machine Learning Engineer – Associate</a>
