@@ -1,4 +1,3 @@
-# Venkatesh Bollineni
 
 # Education
 Masters in Computer science
