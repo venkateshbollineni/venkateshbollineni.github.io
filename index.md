@@ -159,6 +159,49 @@ Business Impact:
   
   This project showcases the power of machine learning in environmental conservation and pest control 🦟. By leveraging geospatial data and predictive modelling, it supports informed decision-making for authorities tackling invasive species.
 </ul>
+
+<ul>
+  <li>
+    <p style="font-size: 18px; font-weight: bold;">
+      Tracking the Spread of Invasive Spotted Lanternfly using Machine Learning
+    </p>
+    <ul>
+      <li>
+        To tackle the spread of the invasive spotted lanternfly (Lycorma delicatula), developed a multiclass classification model to predict infestation density across various regions.
+      </li>
+      <li>
+        Dataset included geographical, environmental, and survey-based features, with a custom-engineered feature (<code>avg_temp</code>) using lat/lon + year-wise temperature trends.
+      </li>
+    </ul>
+
+    🔹 <strong>Key Steps & Techniques:</strong>
+    <ul>
+      <li>✔️ <strong>Data Preprocessing & Feature Engineering:</strong> Handled missing/null values and categorical encoding.</li>
+      <li>✔️ <strong>Dimensionality Reduction & Clustering:</strong> Applied PCA and K-Means.</li>
+      <li>✔️ <strong>Feature Selection:</strong> Used ANOVA F-statistic.</li>
+      <li>✔️ <strong>Class Imbalance Handling:</strong> SMOTE + Equal Proportions Oversampling.</li>
+    </ul>
+
+    🤖 <strong>Model Training & Evaluation:</strong>
+    <ul>
+      <li>✔️ <strong>Best Model:</strong> Gradient Boosting (87.11% accuracy on 2021 test set)</li>
+      <li>🏆 Ensemble methods: Random Forest + XGBoost</li>
+      <li>🌲 Random Forest with SMOTE</li>
+      <li>⚠️ Gradient Boosting without key feature <code>'lyde_established'</code> → accuracy dropped to 62.22%</li>
+    </ul>
+
+    📊 <strong>Model Validation & Interpretation:</strong>
+    <ul>
+      <li>📉 K-Fold Cross-Validation</li>
+      <li>📈 SHAP-based Feature Importance</li>
+      <li>📊 Confusion Matrices & Classification Reports</li>
+    </ul>
+
+    <p>This project highlights the use of machine learning in environmental conservation and pest control 🦟, enabling data-driven decision-making for managing invasive species.</p>
+  </li>
+</ul>
+
+
 <p style="font-size: 21px;font-weight: bold;">Certifications</p>
 
 <a href="https://www.credly.com/badges/b8a529c9-a434-4609-8c08-68825e922bb8/public_url" target="_blank">AWS Certified Machine Learning Engineer – Associate</a>
