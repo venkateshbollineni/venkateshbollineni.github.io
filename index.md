@@ -7,7 +7,7 @@ title: Venkatesh Bollineni
 
 **Welcome to my GitHub profile page**
 
-<p style="font-size: 40px;">**Welcome to my GitHub profile page**</p>
+<p style="font-size: 30px;">Welcome to my GitHub profile page</p>
 
 **Education** - Masters in computer science
 
