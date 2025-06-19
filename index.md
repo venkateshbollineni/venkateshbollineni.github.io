@@ -30,6 +30,10 @@ title: Venkatesh Bollineni
 
 <img src="assets/mean-LSA.PNG" width="500"/>
 
+<img src="assets/SBERT.PNG" width="500"/>
+
+<img src="assets/Doc2Vec.PNG" width="500"/>
+
 <a href="https://aclanthology.org/2025.nlp4dh-1.44/" target="_blank">Read the full research paper here</a>
 
 **Certifications**
