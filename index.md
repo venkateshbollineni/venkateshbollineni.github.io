@@ -3,7 +3,7 @@ layout: default
 title: Venkatesh Bollineni
 ---
 
-Welcome to my GitHub Page
+Welcome to my GitHub profile page
 
 **Education** - Masters in computer science
 
