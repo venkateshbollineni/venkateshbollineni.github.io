@@ -174,7 +174,7 @@ Business Impact:
       </li>
     </ul>
 
-    🔹 <strong>Key Steps & Techniques:</strong>
+    🔹 Key Steps & Techniques:
     <ul>
       <li>✔️ Data Preprocessing & Feature Engineering: Handled missing/null values and categorical encoding.</li>
       <li>✔️ Dimensionality Reduction & Clustering: Applied PCA and K-Means.</li>
@@ -183,7 +183,7 @@ Business Impact:
     </ul>
 
 
-    🤖 <strong>Model Training & Evaluation:</strong>
+    🤖 Model Training & Evaluation:
     <ul>
       <li>✔️ <strong>Best Model:</strong> Gradient Boosting (87.11% accuracy on 2021 test set)</li>
       <li>🏆 Ensemble methods: Random Forest + XGBoost</li>
@@ -191,7 +191,7 @@ Business Impact:
       <li>⚠️ Gradient Boosting without key feature <code>'lyde_established'</code> → accuracy dropped to 62.22%</li>
     </ul>
 
-    📊 <strong>Model Validation & Interpretation:</strong>
+    📊 Model Validation & Interpretation:
     <ul>
       <li>📉 K-Fold Cross-Validation</li>
       <li>📈 SHAP-based Feature Importance</li>
