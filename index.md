@@ -11,9 +11,13 @@ title: Venkatesh Bollineni
 <p style="font-size: 22px;font-weight: bold;">Education</p> - Masters in computer science
 
 **Work experience**
-<p style="font-size: 22px;font-weight: bold;">Work experience</p> - ML Researcher, Southern Illinois University Edwardsville, Jan 2025 to present - ML Research Assistant, Southern Illinois University Edwardsville - Jun 2024 to Dec 2024
+<p style="font-size: 22px;font-weight: bold;">Work experience</p>
 
-Machine Learning Engineer - Saipem - April 2021 to Jun 2023
+<ul>
+  <li>ML Researcher, Southern Illinois University Edwardsville - Jan 2025 to present</li>
+  <li>ML Research Assistant, Southern Illinois University Edwardsville - Jun 2024 to Dec 2024</li>
+  <li>Machine Learning Engineer, Saipem - April 2021 to Jun 2023</li>
+</ul>
 
 **Publications**
 
