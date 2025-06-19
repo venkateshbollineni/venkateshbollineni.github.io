@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Venkatesh Bollineni
-!(assets/pic.png)
+photo: assets/pic.png
 ---
 
 
