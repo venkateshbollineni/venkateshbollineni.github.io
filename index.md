@@ -118,48 +118,6 @@ Business Impact:
 
 🚀📈 This project showcased the power of predictive modelling in driving business decisions, refining customer targeting, and enhancing travel insurance adoption strategies. 
 
-
-<ul>
-  <li><p style="font-size: 18px; font-weight: bold;">
-    Tracking the Spread of Invasive Spotted Lanternfly using Machine Learning
-  </p></li>
-  
-  <a href="https://github.com/venkateshbollineni/Tracking-the-Spread-of-the-Invasive-Spotted-Lanternfly/tree/main" target="_blank">Click for the github repository</a>
-  
-  To tackle the spread of the invasive spotted lanternfly (Lycorma delicatula), developed a multiclass classification model to predict infestation density (lyde_density) across various regions. The dataset included geographical, environmental, and survey-based features, with a custom-engineered feature (avg_temp) derived using latitude, longitude, and year-wise temperature trends.
-  
-  🔹 Key Steps & Techniques:
-  
-  ✔️ Data Preprocessing & Feature Engineering: Addressed missing values, null values, and categorical encoding.
-  
-  ✔️ Dimensionality Reduction & Clustering: Applied PCA and K-Means to analyze patterns in lyde_density distribution.
-  
-  ✔️ Feature Selection: Applied ANOVA F-statistic to identify top contributing features.
-
-  ✔️ Class Imbalance Handling: Implemented SMOTE & Equal Proportions Oversampling to balance the dataset.
-  
-  🤖 Model Training & Evaluation:
-  
-  ✔️ Best Model: Gradient Boosting with Oversampling achieved 87.11% accuracy (Trained on ≤ 2020 data, tested on 2021).
-  ✔️ Other models evaluated:
-  
-  🏆 Ensemble methods (Random Forest + XGBoost)
-  
-  🌲 Random Forest with SMOTE
-  
-  ⚠️ Gradient Boosting (without the most critical feature 'lyde_established') → 62.22% accuracy drop
-  
-  📊 Model Validation & Interpretation:
-
-  📉 K-Fold Cross-Validation: Managed bias-variance tradeoff effectively.
-  
-  📈 Feature Importance Analysis: Identified key drivers of infestation spread using SHAP values.
-  
-  📊 Confusion Matrices & Classification Reports: Analyzed error distribution across classes.
-  
-  This project showcases the power of machine learning in environmental conservation and pest control 🦟. By leveraging geospatial data and predictive modelling, it supports informed decision-making for authorities tackling invasive species.
-</ul>
-
 <ul>
   <li>
     <p style="font-size: 18px; font-weight: bold;">
@@ -196,7 +154,7 @@ Business Impact:
     </ul>
 
     <p>This project highlights the use of machine learning in environmental conservation and pest control 🦟, enabling data-driven decision-making for managing invasive species.</p>
-    <a href="https://github.com/venkateshbollineni/Tracking-the-Spread-of-the-Invasive-Spotted-Lanternfly/tree/main" target="_blank">Click for the github repository</a>
+    <a href="https://github.com/venkateshbollineni/Tracking-the-Spread-of-the-Invasive-Spotted-Lanternfly/tree/main" target="_blank">GitHub repo</a>
   </li>
 </ul>
 
