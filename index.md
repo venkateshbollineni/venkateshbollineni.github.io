@@ -3,7 +3,7 @@ layout: default
 title: Venkatesh Bollineni
 ---
 
-<img src="assets/pic.PNG" width="280" style="border-radius:50%; box-shadow: 0 0 8px rgba(0,0,0,0.2); position:absolute; top:90px; left:50px;" />
+<img src="assets/pic.PNG" width="270" style="border-radius:50%; box-shadow: 0 0 8px rgba(0,0,0,0.2); position:absolute; top:110px; left:50px;" />
 
 **Welcome to my GitHub profile page**
 
