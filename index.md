@@ -42,7 +42,7 @@ title: Venkatesh Bollineni
   Genome Sequence Detection Utilizing the PyTorch Framework
 </p>
 
-Neural Network Model Comparison on Genome Sequence Detection data: AlexNet vs. NiNNet
+Neural Network Model Comparison on Genome Sequence Detection data: AlexNet vs. NiNNet (Network in Network)
 
 Overview
 
