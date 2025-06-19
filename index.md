@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Venkatesh Bollineni
+!(assets/pic.png)
 ---
 
-![Alt text for image](assets/myphoto.jpg)
+
 
 Welcome to my GitHub profile page
 
