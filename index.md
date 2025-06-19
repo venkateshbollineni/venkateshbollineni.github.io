@@ -21,5 +21,6 @@ Mapping Hymns and Organizing Concepts in the Rigveda: Quantitatively Connecting 
 _Proceedings of the 5th International Conference on Natural Language Processing for Digital Humanities at NAACL 2025_
 
 https://aclanthology.org/2025.nlp4dh-1.44/
+<a href="https://aclanthology.org/2025.nlp4dh-1.44/" target="_blank">Click here to visit my website</a>
 
 
