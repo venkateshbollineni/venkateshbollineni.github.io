@@ -20,7 +20,6 @@ Machine Learning Engineer - Saipem - April 2021 to Jun 2023
 Mapping Hymns and Organizing Concepts in the Rigveda: Quantitatively Connecting the Vedic Suktas
 _Proceedings of the 5th International Conference on Natural Language Processing for Digital Humanities at NAACL 2025_
 
-https://aclanthology.org/2025.nlp4dh-1.44/
-<a href="https://aclanthology.org/2025.nlp4dh-1.44/" target="_blank">Click here to visit my website</a>
+<a href="https://aclanthology.org/2025.nlp4dh-1.44/" target="_blank">Click here to read my paper</a>
 
 
