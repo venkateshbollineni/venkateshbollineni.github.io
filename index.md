@@ -12,7 +12,6 @@ title: Venkatesh Bollineni
 **Work experience**
 
 ML Researcher - Southern Illinois University Edwardsville - Jan 2025 to present
-
 ML Research Assistant - Southern Illinois University Edwardsville - Jun 2024 to Dec 2024
 
 Machine Learning Engineer - Saipem - April 2021 to Jun 2023
