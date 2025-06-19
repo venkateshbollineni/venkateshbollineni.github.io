@@ -196,6 +196,7 @@ Business Impact:
     </ul>
 
     <p>This project highlights the use of machine learning in environmental conservation and pest control 🦟, enabling data-driven decision-making for managing invasive species.</p>
+    <a href="https://github.com/venkateshbollineni/Tracking-the-Spread-of-the-Invasive-Spotted-Lanternfly/tree/main" target="_blank">Click for the github repository</a>
   </li>
 </ul>
 
