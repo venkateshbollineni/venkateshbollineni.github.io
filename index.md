@@ -174,13 +174,14 @@ Business Impact:
       </li>
     </ul>
 
-    🔹 Key Steps & Techniques:
+    🔹 <strong>Key Steps & Techniques:</strong>
     <ul>
-    ✔️ Data Preprocessing & Feature Engineering: Handled missing/null values and categorical encoding.
-    ✔️ <strong>Dimensionality Reduction & Clustering: Applied PCA and K-Means.
-    ✔️ <stFeature Selection: Used ANOVA F-statistic.
-    ✔️ Class Imbalance Handling: SMOTE + Equal Proportions Oversampling.
-    <ul>
+      <li>✔️ Data Preprocessing & Feature Engineering: Handled missing/null values and categorical encoding.</li>
+      <li>✔️ Dimensionality Reduction & Clustering: Applied PCA and K-Means.</li>
+      <li>✔️ Feature Selection: Used ANOVA F-statistic.</li>
+      <li>✔️ Class Imbalance Handling: SMOTE + Equal Proportions Oversampling.</li>
+    </ul>
+
 
     🤖 <strong>Model Training & Evaluation:</strong>
     <ul>
