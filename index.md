@@ -42,7 +42,7 @@ title: Venkatesh Bollineni
   Genome Sequence Detection Utilizing the PyTorch Framework
 </p>
 
-Neural Network Model Comparison on Genome Sequence Detection data: AlexNet vs. NiNNet (Network in Network)
+Neural Network Model Comparison on Genome Sequence Detection data: AlexNet vs. NiNNet(Network in Network)
 
 Overview
 
@@ -77,6 +77,10 @@ Results & Analysis
 📈 Accuracy Curves: The accuracy of each configuration is plotted across epochs to visualize model performance.
 
 📊 Confusion Matrices: Heatmaps are generated to analyse model predictions and misclassifications.
+
+<img src="assets/Confusion matrix.png" width="500"/>
+
+<img src="assets/Accuracies plot.png" width="500"/>
 
 <p style="font-size: 21px;font-weight: bold;">Certifications</p>
 
