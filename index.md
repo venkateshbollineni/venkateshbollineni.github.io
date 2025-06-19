@@ -158,7 +158,7 @@ Business Impact:
   📊 Confusion Matrices & Classification Reports: Analyzed error distribution across classes.
   
   This project showcases the power of machine learning in environmental conservation and pest control 🦟. By leveraging geospatial data and predictive modelling, it supports informed decision-making for authorities tackling invasive species.
-
+</ul>
 <p style="font-size: 21px;font-weight: bold;">Certifications</p>
 
 <a href="https://www.credly.com/badges/b8a529c9-a434-4609-8c08-68825e922bb8/public_url" target="_blank">AWS Certified Machine Learning Engineer – Associate</a>
