@@ -5,11 +5,10 @@ title: Venkatesh Bollineni
 
 <img src="assets/pic.PNG" width="250" style="border-radius:50%; box-shadow: 0 0 8px rgba(0,0,0,0.2); position:absolute; top:103px; left:50px;" />
 
-**Welcome to my GitHub profile page**
-
-<p style="font-size: 30px;">Welcome to my GitHub profile page</p>
+<p style="font-size: 30px;font-weight: bold;">Welcome to my GitHub profile page</p> 
 
 **Education** - Masters in computer science
+<p style="font-size: 25px;font-weight: bold;">Education</p> - Masters in computer science
 
 **Work experience**
 
