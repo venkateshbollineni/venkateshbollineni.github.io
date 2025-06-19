@@ -185,10 +185,10 @@ Business Impact:
 
     🤖 Model Training & Evaluation:
     <ul>
-      <li>✔️ <strong>Best Model:</strong> Gradient Boosting (87.11% accuracy on 2021 test set)</li>
-      <li>🏆 Ensemble methods: Random Forest + XGBoost</li>
-      <li>🌲 Random Forest with SMOTE</li>
-      <li>⚠️ Gradient Boosting without key feature <code>'lyde_established'</code> → accuracy dropped to 62.22%</li>
+      <li>✔️ Best Model: Gradient Boosting (87.11% accuracy on 2021 test set)</li>
+      <li>✔️ Ensemble methods: Random Forest + XGBoost</li>
+      <li>✔️ Random Forest with SMOTE</li>
+      <li>✔️ Gradient Boosting without key feature <code>'lyde_established'</code> → accuracy dropped to 62.22%</li>
     </ul>
 
     📊 Model Validation & Interpretation:
