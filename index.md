@@ -122,9 +122,9 @@ Business Impact:
 <ul>
   <li><p style="font-size: 18px; font-weight: bold;">
     Tracking the Spread of Invasive Spotted Lanternfly using Machine Learning
-  </p>
+  </p></li>
   
-  <a href="https://github.com/venkateshbollineni/Tracking-the-Spread-of-the-Invasive-Spotted-Lanternfly/tree/main" target="_blank">Click for the github repository</a>
+  <li><a href="https://github.com/venkateshbollineni/Tracking-the-Spread-of-the-Invasive-Spotted-Lanternfly/tree/main" target="_blank">Click for the github repository</a></li>
   
   To tackle the spread of the invasive spotted lanternfly (Lycorma delicatula), developed a multiclass classification model to predict infestation density (lyde_density) across various regions. The dataset       included geographical, environmental, and survey-based features, with a custom-engineered feature (avg_temp) derived using latitude, longitude, and year-wise temperature trends.
   
@@ -157,7 +157,7 @@ Business Impact:
   
   📊 Confusion Matrices & Classification Reports: Analyzed error distribution across classes.
   
-  This project showcases the power of machine learning in environmental conservation and pest control 🦟. By leveraging geospatial data and predictive modelling, it supports informed decision-making for authorities tackling invasive species.</li>
+  This project showcases the power of machine learning in environmental conservation and pest control 🦟. By leveraging geospatial data and predictive modelling, it supports informed decision-making for authorities tackling invasive species.
 
 <p style="font-size: 21px;font-weight: bold;">Certifications</p>
 
