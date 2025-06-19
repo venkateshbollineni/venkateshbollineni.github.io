@@ -74,7 +74,8 @@ NiNNet, Adam, 1032, 0.0001, 10
 
 Results & Analysis
 
-📈 Accuracy Curves: The accuracy of each configuration is plotted across epochs to visualize model performance. 
+📈 Accuracy Curves: The accuracy of each configuration is plotted across epochs to visualize model performance.
+
 📊 Confusion Matrices: Heatmaps are generated to analyse model predictions and misclassifications.
 
 <p style="font-size: 21px;font-weight: bold;">Certifications</p>
