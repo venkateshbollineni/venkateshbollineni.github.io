@@ -99,25 +99,25 @@ Results & Analysis
     🔹 Key Steps & Techniques:
     <p style="margin-top: 17px;">🔹 Key Steps & Techniques:</p>
     <ul>
-      <li>style="margin-bottom: 10px;">✔️ Data Cleaning & Exploration: Addressed missing values, removed irrelevant features, and performed ANOVA tests to identify key predictors.</li>
-      <li>style="margin-bottom: 10px;">⚖️📉 Class Imbalance Handling: Adjusted thresholding techniques to address dataset imbalance (63% opted out, 37% opted in), ensuring better model performance.</li>
-      <li>style="margin-bottom: 10px;">🎯📊 Feature Selection: Identified "Age," "Annual Income," and "Ever Travelled Abroad" as the most significant features contributing to the model’s predictive power. </li>
+      <li style="margin-bottom: 10px;">✔️ Data Cleaning & Exploration: Addressed missing values, removed irrelevant features, and performed ANOVA tests to identify key predictors.</li>
+      <li style="margin-bottom: 10px;">⚖️📉 Class Imbalance Handling: Adjusted thresholding techniques to address dataset imbalance (63% opted out, 37% opted in), ensuring better model performance.</li>
+      <li style="margin-bottom: 10px;">🎯📊 Feature Selection: Identified "Age," "Annual Income," and "Ever Travelled Abroad" as the most significant features contributing to the model’s predictive power. </li>
     </ul>
 
     🤖 Model Training & Evaluation:
     <p style="margin-top: 17px;">🤖 Model Training & Evaluation:</p>
     <ul>
-      <li>style="margin-bottom: 6px;">📊🔍 Model Comparison: Evaluated five machine learning models—Random Forest, Gradient Boosting, Support Vector Machines, Logistic Regression, and Linear Discriminant Analysis.</li>
-      <li>style="margin-bottom: 6px;">🏆📈 Best Model - Gradient Boosting: Achieved 83.1% accuracy, 16.9% test error rate, and 90.8% recall, outperforming other models. </li>
-      <li>style="margin-bottom: 6px;">🔄⚙️ Cross-Validation & Regularization: Tuned hyperparameters (shrinkage, interaction depth) to enhance performance. </li>
-      <li>style="margin-bottom: 6px;">🔮📊 Predictive Insights: The model was applied to 100 unseen data points, correctly identifying 81 as "No" and 19 as "Yes" for purchasing travel insurance. </li>
+      <li style="margin-bottom: 6px;">📊🔍 Model Comparison: Evaluated five machine learning models—Random Forest, Gradient Boosting, Support Vector Machines, Logistic Regression, and Linear Discriminant Analysis.</li>
+      <li style="margin-bottom: 6px;">🏆📈 Best Model - Gradient Boosting: Achieved 83.1% accuracy, 16.9% test error rate, and 90.8% recall, outperforming other models. </li>
+      <li style="margin-bottom: 6px;">🔄⚙️ Cross-Validation & Regularization: Tuned hyperparameters (shrinkage, interaction depth) to enhance performance. </li>
+      <li style="margin-bottom: 6px;">🔮📊 Predictive Insights: The model was applied to 100 unseen data points, correctly identifying 81 as "No" and 19 as "Yes" for purchasing travel insurance. </li>
     </ul>
 
     📊 Business Impact:
     <p style="margin-top: 17px;">📊 Business Impact:</p>
     <ul>
-      <li>style="margin-bottom: 4px;">🎯📢 Actionable Insights: Helped optimize marketing strategies by identifying key factors influencing customer interest.</li> 
-      <li>style="margin-bottom: 4px;">⚠️🔍 Deployment Considerations: Emphasized balancing false positives (unnecessary purchases) and false negatives (missed customers) before model deployment.</li> 
+      <li style="margin-bottom: 4px;">🎯📢 Actionable Insights: Helped optimize marketing strategies by identifying key factors influencing customer interest.</li> 
+      <li style="margin-bottom: 4px;">⚠️🔍 Deployment Considerations: Emphasized balancing false positives (unnecessary purchases) and false negatives (missed customers) before model deployment.</li> 
     </ul>
 <p>🚀📈 This project showcased the power of predictive modelling in driving business decisions, refining customer targeting, and enhancing travel insurance adoption strategies.</p>
     <a href="https://github.com/venkateshbollineni/Predicting-Customer-Interest-in-Enhanced-Travel-Insurance-with-COVID-Cover/tree/main" target="_blank">GitHub repo</a>
