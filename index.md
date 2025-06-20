@@ -155,8 +155,7 @@ Business Impact:
 <p>🚀📈 This project showcased the power of predictive modelling in driving business decisions, refining customer targeting, and enhancing travel insurance adoption strategies.</p>
     <a href="https://github.com/venkateshbollineni/Predicting-Customer-Interest-in-Enhanced-Travel-Insurance-with-COVID-Cover/tree/main" target="_blank">GitHub repo</a>
   </li>
-</ul>
-
+<ul>
 
 
 
