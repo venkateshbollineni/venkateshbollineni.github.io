@@ -69,7 +69,7 @@ title: Venkatesh Bollineni
     <p style="margin-top: 8px;">📊 Results & Analysis</p>
     <ul>
       <li style="margin-bottom: 4px;">📈 Accuracy Curves: The accuracy of each configuration is plotted across epochs to visualize model performance.</li>
-      <li style="margin-bottom: 4px;"><img src="assets/Accuracies plot.png" width="500"/></li>
+      < style="margin-bottom: 4px;"><img src="assets/Accuracies plot.png" width="500"/>
       <li style="margin-bottom: 4px;">📊 Confusion Matrices: Heatmaps are generated to analyse model predictions and misclassifications.</li>
       < style="margin-bottom: 4px;"><img src="assets/Confusion matrix.png" width="500"/>
     </ul>
