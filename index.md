@@ -48,7 +48,7 @@ title: Venkatesh Bollineni
     <p style="margin-top: 8px;">🔹 Overview </p>
         <li style="margin-bottom: 4px;">This project compares the performance of two deep learning architectures, AlexNet and NiNNet, using different optimization techniques. The models are trained and evaluated on a given genome sequence dataset to analyze their accuracy and classification performance. The results are visualized using accuracy curves and confusion matrices.</li>
     </ul>
-    
+
     <p style="margin-top: 8px;">🔹 Project Features: </p>
     <ul>
       <li style="margin-bottom: 4px;">✔️ Implementation of AlexNet and NiNNet architectures.</li>
@@ -57,7 +57,6 @@ title: Venkatesh Bollineni
       <li style="margin-bottom: 4px;">✔️ Visualization of accuracy trends over epochs.</li>
       <li style="margin-bottom: 4px;">✔️ Generation of confusion matrices for error analysis.</li>
     </ul>
-
     <p style="margin-top: 8px;">The project runs experiments with the following configurations:</p>
     <p style="margin-bottom: 4px;">Model, Optimizer, Batch Size, Learning Rate, Epochs respectively are</p>
     <ul>
