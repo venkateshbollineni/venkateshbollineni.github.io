@@ -38,51 +38,6 @@ title: Venkatesh Bollineni
 
 <p style="font-size: 21px;font-weight: bold;">Projects</p>
 
-<p style="font-size: 18px; font-weight: bold;">
-  Genome Sequence Detection Utilizing the PyTorch Framework
-</p>
-<a href="https://github.com/venkateshbollineni/Genome-Sequence-Detection-pytorchframework-DeepLearning" target="_blank">Click for the github repository</a>
-
-Neural Network Model Comparison on Genome Sequence Detection data: AlexNet vs. NiNNet(Network in Network)
-
-Overview
-
-This project compares the performance of two deep learning architectures, AlexNet and NiNNet, using different optimization techniques. The models are trained and evaluated on a given genome sequence dataset to analyze their accuracy and classification performance. The results are visualized using accuracy curves and confusion matrices.
-
-Project Features
-
-✔️ Implementation of AlexNet and NiNNet architectures.
-
-✔️ Training with multiple optimizers: SGD, Adam, and RMSprop.
-
-✔️ Comparison of model performance across different configurations.
-
-✔️ Visualization of accuracy trends over epochs.
-
-✔️ Generation of confusion matrices for error analysis.
-
-Experiment Configurations The project runs experiments with the following configurations:
-
-Model, Optimizer, Batch Size, Learning Rate, Epochs respectively are
-
-AlexNet, SGD, 256, 0.001, 10
-
-AlexNet, Adam, 1032, 0.0001, 10
-
-NiNNet, RMSprop, 516, 0.0005, 10
-
-NiNNet, Adam, 1032, 0.0001, 10
-
-Results & Analysis
-
-📈 Accuracy Curves: The accuracy of each configuration is plotted across epochs to visualize model performance.
-
-📊 Confusion Matrices: Heatmaps are generated to analyse model predictions and misclassifications.
-
-<img src="assets/Confusion matrix.png" width="500"/>
-
-<img src="assets/Accuracies plot.png" width="500"/>
-
 <ul>
   <li>
     <p style="font-size: 18px; font-weight: bold;">
@@ -90,16 +45,13 @@ Results & Analysis
     </p>
     <ul>
       <li>
-        Neural Network Model Comparison on Genome Sequence Detection data: AlexNet vs. NiNNet(Network in Network)
-
-        Overview
-
-        This project compares the performance of two deep learning architectures, AlexNet and NiNNet, using different optimization techniques. The models are trained and evaluated on a given genome sequence dataset to analyze their accuracy and classification performance. The results are visualized using accuracy curves and confusion matrices.
-        
+        <li style="margin-bottom: 4px;">Neural Network Model Comparison on Genome Sequence Detection data: AlexNet vs. NiNNet(Network in Network)</li>
+        <li style="margin-bottom: 4px;">Overview</li>
+        <li style="margin-bottom: 4px;">This project compares the performance of two deep learning architectures, AlexNet and NiNNet, using different optimization techniques. The models are trained and evaluated on a given genome sequence dataset to analyze their accuracy and classification performance. The results are visualized using accuracy curves and confusion matrices.</li>
       </li>
     </ul>
     
-    <p style="margin-top: 12px;">🔹 Project Features: </p>
+    <p style="margin-top: 8px;">🔹 Project Features: </p>
     <ul>
       <li style="margin-bottom: 4px;">✔️ Implementation of AlexNet and NiNNet architectures.</li>
       <li style="margin-bottom: 4px;">✔️ Training with multiple optimizers: SGD, Adam, and RMSprop.</li>
@@ -108,22 +60,23 @@ Results & Analysis
       <li style="margin-bottom: 4px;">✔️ Generation of confusion matrices for error analysis.</li>
     </ul>
 
-    <p style="margin-top: 12px;">Experiment Configurations The project runs experiments with the following configurations:</p>
+    <p style="margin-top: 8px;">Experiment Configurations The project runs experiments with the following configurations:</p>
+    <p style="margin-bottom: 4px;">Model, Optimizer, Batch Size, Learning Rate, Epochs respectively are</p>
     <ul>
-      <li style="margin-bottom: 4px;">Model, Optimizer, Batch Size, Learning Rate, Epochs respectively are</li>
       <li style="margin-bottom: 4px;">AlexNet, SGD, 256, 0.001, 10 </li>
       <li style="margin-bottom: 4px;">AlexNet, Adam, 1032, 0.0001, 10</li>
       <li style="margin-bottom: 4px;">NiNNet, RMSprop, 516, 0.0005, 10</li>
       <li style="margin-bottom: 4px;">NiNNet, Adam, 1032, 0.0001, 10</li>
     </ul>
 
-    <p style="margin-top: 12px;">📊 Results & Analysis</p>
+    <p style="margin-top: 8px;">📊 Results & Analysis</p>
     <ul>
       <li style="margin-bottom: 4px;">📈 Accuracy Curves: The accuracy of each configuration is plotted across epochs to visualize model performance.</li> 
       <li style="margin-bottom: 4px;">📊 Confusion Matrices: Heatmaps are generated to analyse model predictions and misclassifications.</li>
       <li style="margin-bottom: 4px;"><img src="assets/Confusion matrix.png" width="500"/></li>
+      <li style="margin-bottom: 4px;"><img src="assets/Accuracies plot.png" width="500"/></li>
     </ul>
-    <img src="assets/Accuracies plot.png" width="500"/>
+    
 <p>🚀📈 This project showcased the power of predictive modelling in driving business decisions, refining customer targeting, and enhancing travel insurance adoption strategies.</p>
     <a href="https://github.com/venkateshbollineni/Genome-Sequence-Detection-pytorchframework-DeepLearning" target="_blank">GitHub repo</a>
   </li>
