@@ -43,7 +43,6 @@ title: Venkatesh Bollineni
     <p style="font-size: 18px; font-weight: bold;">
       Genome Sequence Detection Utilizing the PyTorch Framework
     </p>
-    <p style="margin-bottom: 4px;">Neural Network Model Comparison on Genome Sequence Detection data: AlexNet vs. NiNNet(Network in Network)</p> 
     <p style="margin-top: 8px;">🔹 Overview </p>
     <ul>
         <li style="margin-bottom: 4px;">This project compares the performance of two deep learning architectures, AlexNet and NiNNet, using different optimization techniques. The models are trained and evaluated on a given genome sequence dataset to analyze their accuracy and classification performance. The results are visualized using accuracy curves and confusion matrices.</li>
