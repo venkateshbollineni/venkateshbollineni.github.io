@@ -106,7 +106,10 @@ title: Venkatesh Bollineni
     <p style="margin-top: 8px;">📊 Business Impact:</p>
     <ul>
       <li style="margin-bottom: 4px;">🎯📢 Actionable Insights: Helped optimize marketing strategies by identifying key factors influencing customer interest.</li> 
-      <li style="margin-bottom: 4px;">⚠️🔍 Deployment Considerations: Emphasized balancing false positives (unnecessary purchases) and false negatives (missed customers) before model deployment.</li> 
+      <li style="margin-bottom: 4px;">⚠️🔍 Deployment Considerations: Emphasized balancing false positives (unnecessary purchases) and false negatives (missed customers) before model deployment.</li>
+      <img src="assets/selecting the model.PNG" width="500"/>
+      <img src="assets/feature importance.PNG" width="500"/>
+      <img src="assets/accuracy and number of predictorrs.PNG" width="500"/>
     </ul>
 <p>🚀📈 This project showcased the power of predictive modelling in driving business decisions, refining customer targeting, and enhancing travel insurance adoption strategies.</p>
     <a href="https://github.com/venkateshbollineni/Predicting-Customer-Interest-in-Enhanced-Travel-Insurance-with-COVID-Cover/tree/main" target="_blank">GitHub repo</a>
@@ -147,6 +150,11 @@ title: Venkatesh Bollineni
       <li style="margin-bottom: 4px;">📉 K-Fold Cross-Validation</li>
       <li style="margin-bottom: 4px;">📈 SHAP-based Feature Importance</li>
       <li style="margin-bottom: 4px;">📊 Confusion Matrices & Classification Reports</li>
+      <img src="assets/ROC curve.png" width="500"/>
+      <img src="assets/metrics report.png" width="500"/>
+      <img src="assets/prediction for 2030.png" width="500"/>
+      <img src="assets/PCA - lyde_density.PNG" width="500"/>
+      <img src="assets/Confusion matrix for GB with oversampling.PNG" width="500"/>
     </ul>
 
     <p>This project highlights the use of machine learning in environmental conservation and pest control 🦟, enabling data-driven decision-making for managing invasive species.</p>
