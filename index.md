@@ -44,11 +44,9 @@ title: Venkatesh Bollineni
       Genome Sequence Detection Utilizing the PyTorch Framework
     </p>
     <ul>
-      <li>
         <li style="margin-bottom: 4px;">Neural Network Model Comparison on Genome Sequence Detection data: AlexNet vs. NiNNet(Network in Network)</li>
-        <li style="margin-bottom: 4px;">Overview</li>
+    <p style="margin-top: 8px;">🔹 Overview </p>
         <li style="margin-bottom: 4px;">This project compares the performance of two deep learning architectures, AlexNet and NiNNet, using different optimization techniques. The models are trained and evaluated on a given genome sequence dataset to analyze their accuracy and classification performance. The results are visualized using accuracy curves and confusion matrices.</li>
-      </li>
     </ul>
     
     <p style="margin-top: 8px;">🔹 Project Features: </p>
@@ -60,7 +58,7 @@ title: Venkatesh Bollineni
       <li style="margin-bottom: 4px;">✔️ Generation of confusion matrices for error analysis.</li>
     </ul>
 
-    <p style="margin-top: 8px;">Experiment Configurations The project runs experiments with the following configurations:</p>
+    <p style="margin-top: 8px;">The project runs experiments with the following configurations:</p>
     <p style="margin-bottom: 4px;">Model, Optimizer, Batch Size, Learning Rate, Epochs respectively are</p>
     <ul>
       <li style="margin-bottom: 4px;">AlexNet, SGD, 256, 0.001, 10 </li>
@@ -71,10 +69,10 @@ title: Venkatesh Bollineni
 
     <p style="margin-top: 8px;">📊 Results & Analysis</p>
     <ul>
-      <li style="margin-bottom: 4px;">📈 Accuracy Curves: The accuracy of each configuration is plotted across epochs to visualize model performance.</li> 
-      <li style="margin-bottom: 4px;">📊 Confusion Matrices: Heatmaps are generated to analyse model predictions and misclassifications.</li>
-      <li style="margin-bottom: 4px;"><img src="assets/Confusion matrix.png" width="500"/></li>
+      <li style="margin-bottom: 4px;">📈 Accuracy Curves: The accuracy of each configuration is plotted across epochs to visualize model performance.</li>
       <li style="margin-bottom: 4px;"><img src="assets/Accuracies plot.png" width="500"/></li>
+      <li style="margin-bottom: 4px;">📊 Confusion Matrices: Heatmaps are generated to analyse model predictions and misclassifications.</li>
+      < style="margin-bottom: 4px;"><img src="assets/Confusion matrix.png" width="500"/>
     </ul>
     
 <p>🚀📈 This project showcased the power of predictive modelling in driving business decisions, refining customer targeting, and enhancing travel insurance adoption strategies.</p>
@@ -93,14 +91,14 @@ title: Venkatesh Bollineni
       </li>
     </ul>
     
-    <p style="margin-top: 12px;">🔹 Key Steps & Techniques:</p>
+    <p style="margin-top: 8px;">🔹 Key Steps & Techniques:</p>
     <ul>
       <li style="margin-bottom: 4px;">✔️ Data Cleaning & Exploration: Addressed missing values, removed irrelevant features, and performed ANOVA tests to identify key predictors.</li>
       <li style="margin-bottom: 4px;">⚖️📉 Class Imbalance Handling: Adjusted thresholding techniques to address dataset imbalance (63% opted out, 37% opted in), ensuring better model performance.</li>
       <li style="margin-bottom: 4px;">🎯📊 Feature Selection: Identified "Age," "Annual Income," and "Ever Travelled Abroad" as the most significant features contributing to the model’s predictive power. </li>
     </ul>
 
-    <p style="margin-top: 12px;">🤖 Model Training & Evaluation:</p>
+    <p style="margin-top: 8px;">🤖 Model Training & Evaluation:</p>
     <ul>
       <li style="margin-bottom: 4px;">📊🔍 Model Comparison: Evaluated five machine learning models—Random Forest, Gradient Boosting, Support Vector Machines, Logistic Regression, and Linear Discriminant Analysis.</li>
       <li style="margin-bottom: 4px;">🏆📈 Best Model - Gradient Boosting: Achieved 83.1% accuracy, 16.9% test error rate, and 90.8% recall, outperforming other models. </li>
@@ -108,7 +106,7 @@ title: Venkatesh Bollineni
       <li style="margin-bottom: 4px;">🔮📊 Predictive Insights: The model was applied to 100 unseen data points, correctly identifying 81 as "No" and 19 as "Yes" for purchasing travel insurance. </li>
     </ul>
 
-    <p style="margin-top: 12px;">📊 Business Impact:</p>
+    <p style="margin-top: 8px;">📊 Business Impact:</p>
     <ul>
       <li style="margin-bottom: 4px;">🎯📢 Actionable Insights: Helped optimize marketing strategies by identifying key factors influencing customer interest.</li> 
       <li style="margin-bottom: 4px;">⚠️🔍 Deployment Considerations: Emphasized balancing false positives (unnecessary purchases) and false negatives (missed customers) before model deployment.</li> 
@@ -131,7 +129,7 @@ title: Venkatesh Bollineni
       </li>
     </ul>
 
-    <p style="margin-top: 12px;">🔹 Key Steps & Techniques:</p>
+    <p style="margin-top: 8px;">🔹 Key Steps & Techniques:</p>
     <ul>
       <li style="margin-bottom: 4px;">✔️ Data Preprocessing & Feature Engineering: Handled missing/null values and categorical encoding.</li>
       <li style="margin-bottom: 4px;">✔️ Dimensionality Reduction & Clustering: Applied PCA and K-Means.</li>
@@ -139,7 +137,7 @@ title: Venkatesh Bollineni
       <li style="margin-bottom: 4px;">✔️ Class Imbalance Handling: SMOTE + Equal Proportions Oversampling.</li>
     </ul>
 
-    <p style="margin-top: 12px;">🤖 Model Training & Evaluation:</p>
+    <p style="margin-top: 8px;">🤖 Model Training & Evaluation:</p>
     <ul>
       <li style="margin-bottom: 4px;">✔️ Best Model: Gradient Boosting (87.11% accuracy on 2021 test set)</li>
       <li style="margin-bottom: 4px;">✔️ Ensemble methods: Random Forest + XGBoost</li>
@@ -147,7 +145,7 @@ title: Venkatesh Bollineni
       <li style="margin-bottom: 4px;">✔️ Gradient Boosting without key feature <code>'lyde_established'</code> → accuracy dropped to 62.22%</li>
     </ul>
 
-    <p style="margin-top: 12px;">📊 Model Validation & Interpretation:</p>
+    <p style="margin-top: 8px;">📊 Model Validation & Interpretation:</p>
     <ul>
       <li style="margin-bottom: 4px;">📉 K-Fold Cross-Validation</li>
       <li style="margin-bottom: 4px;">📈 SHAP-based Feature Importance</li>
