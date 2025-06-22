@@ -72,7 +72,6 @@ title: Venkatesh Bollineni
       <img src="assets/Confusion matrix.png" width="500"/>
     </ul>
     
-<p>🚀📈 This project showcased the power of predictive modelling in driving business decisions, refining customer targeting, and enhancing travel insurance adoption strategies.</p>
     <a href="https://github.com/venkateshbollineni/Genome-Sequence-Detection-pytorchframework-DeepLearning" target="_blank">GitHub repo</a>
   </li>
 </ul>
