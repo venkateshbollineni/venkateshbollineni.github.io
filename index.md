@@ -12,9 +12,11 @@ title: Venkatesh Bollineni
 <p style="font-size: 21px;font-weight: bold;">Work experience</p>
 
 <ul>
-  <li>ML Researcher, Southern Illinois University Edwardsville - Jan 2025 to present</li>
+  <li>AI Architect, American Express - Oct 2025 to present</li>
+  <li>ML Lead, Southern Illinois University Edwardsville - Jan 2025 to Oct 2025</li>
   <li>ML Research Assistant, Southern Illinois University Edwardsville - Jun 2024 to Dec 2024</li>
-  <li>Machine Learning Engineer, Saipem - April 2021 to Jun 2023</li>
+  <li>Data Scientist, Saipem - April 2021 to Jun 2023</li>
+  <li>Machine Learning Engineer, Daewoo - Feb 2016 to March 2021</li>
 </ul>
 
 <p style="font-size: 21px;font-weight: bold;">Publications</p>
